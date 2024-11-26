@@ -1,0 +1,1 @@
+ phiên bản git trên hệ thống của tôi là: git version 2.34.1
